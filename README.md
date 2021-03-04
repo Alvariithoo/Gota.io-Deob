@@ -1,3 +1,3 @@
 ## Gota.io Deobfuscated Gota.js
 
-### Discord: Alvaro#5905
+### Discord: Alvariithoo#5905
